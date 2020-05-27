@@ -1,3 +1,8 @@
+"""
+Save a line of input from stdin to a variable, print "Hello, World." on a single line, 
+and finally print the value of your variable on a second line.
+"""
+
 i = 4
 d = 4.0
 s = 'HackerRank '

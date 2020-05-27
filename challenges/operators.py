@@ -1,3 +1,10 @@
+'''
+Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), 
+and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost.
+
+Print the total meal cost, where totalCost, is the rounded integer result of the entire bill (mealCost with added tax and tip).
+'''
+
 import math
 import os
 import random

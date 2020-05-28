@@ -5,3 +5,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new code challeng
 * [Day 1: Data Types](challenges/data_types.py)
 * [Day 2: Operators](challenges/operators.py)
 * [Day 3: Intro to Conditional Statements](challenges/conditional_statements.py)
+* [Day 4: Class vs. Instance](challenges/class_vs_instance.py)

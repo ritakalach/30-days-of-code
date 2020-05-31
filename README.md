@@ -8,3 +8,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new code challeng
 * [Day 4: Class vs. Instance](challenges/class_vs_instance.py)
 * [Day 5: Loops](challenges/loops.py)
 * [Day 6: Let's Review](challenges/more_loops.py)
+* [Day 7: Arrays](challenges/arrays.py)

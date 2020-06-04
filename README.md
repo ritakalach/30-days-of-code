@@ -12,3 +12,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new code challeng
 * [Day 8: Dictionaries and Maps](challenges/dictionaries_and_maps.py)
 * [Day 9: Recursion 3](challenges/recursion.py)
 * [Day 10: Binary Numbers](challenges/binary_numbers.py)
+* [Day 11: 2D Arrays](challenges/2d_arrays.py)

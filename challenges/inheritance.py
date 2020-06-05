@@ -27,7 +27,6 @@ class Student(Person):
         self.scores = scores
 
     def calculate(self):
-        
         average_score = sum(self.scores)/len(self.scores)
 
         if average_score >= 90:

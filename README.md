@@ -17,3 +17,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new code challeng
 * [Day 12: Inheritance](challenges/inheritance.py)
 * [Day 13: Abstract Classes](challenges/abstract_classes.py)
 * [Day 14: Scope](challenges/scope.py)
+* [Day 15: Linked List](challenges/linked_list.py)

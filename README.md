@@ -21,3 +21,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new code challeng
 * [Day 16: Exceptions - String to Integer](challenges/exceptions.py)
 * [Day 17: More Exceptions](challenges/exceptions_2.py)
 * [Day 18: Queues and Stacks](challenges/queues_and_stacks.py)
+* [Day 19: Interfaces](challenges/interfaces.py)

@@ -23,3 +23,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new code challeng
 * [Day 18: Queues and Stacks](challenges/queues_and_stacks.py)
 * [Day 19: Interfaces](challenges/interfaces.py)
 * [Day 20: Sorting](challenges/sorting.py)
+* [Day 21: Generics](challenges/generics.py)

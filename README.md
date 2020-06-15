@@ -1,7 +1,7 @@
 # 30 Days of Code
 Improve coding skills by coding for 30 days in a row. Unlock a new code challenge and tutorial each day at [HackerRank.](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-## Practice problems and solutions
+## Practice problems and solutions in Python 🐍
 * [Day 0: Hello, World](challenges/hello_world.py)
 * [Day 1: Data Types](challenges/data_types.py)
 * [Day 2: Operators](challenges/operators.py)
@@ -23,4 +23,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new code challeng
 * [Day 18: Queues and Stacks](challenges/queues_and_stacks.py)
 * [Day 19: Interfaces](challenges/interfaces.py)
 * [Day 20: Sorting](challenges/sorting.py)
-* [Day 21: Generics](challenges/generics.py)
+* Day 21: Generics (Python does not support this construct)

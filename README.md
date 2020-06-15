@@ -24,3 +24,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new challenge and
 * [Day 19: Interfaces](challenges/interfaces.py)
 * [Day 20: Sorting](challenges/sorting.py)
 * Day 21: Generics (Python does not support this construct)
+* [Day 22: Binary Search Trees](challenges/binary_search_trees.py)

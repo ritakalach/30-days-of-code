@@ -26,3 +26,4 @@ Improve coding skills by coding for 30 days in a row. Unlock a new challenge and
 * Day 21: Generics (Python does not support this construct)
 * [Day 22: Binary Search Trees](challenges/binary_search_trees.py)
 * [Day 23: BST Level-Order Traversal](challenges/bst-traversal.py)
+* [Day 24: More Linked Lists](challenges/linked_list_2.py)

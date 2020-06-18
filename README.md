@@ -27,3 +27,6 @@ Improve coding skills by coding for 30 days in a row. Unlock a new challenge and
 * [Day 22: Binary Search Trees](challenges/binary_search_trees.py)
 * [Day 23: BST Level-Order Traversal](challenges/bst-traversal.py)
 * [Day 24: More Linked Lists](challenges/linked_list_2.py)
+* [Day 25: Running Time and Complexity](challenges/time_complexity.py)
+
+

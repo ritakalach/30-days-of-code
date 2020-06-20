@@ -8,3 +8,20 @@ create a program that calculates the fine (if any). The fee structure is as foll
      as the expected return date, the fine = 500 Hackos * (the number of months late).
   4. If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000 Hackos.
 """
+
+def calc_fine(da,ma,ya,de,me,ye):
+    fine = 0
+
+    if ya > ye:
+        fine = 10000
+    elif ya == ye:
+        if ma > me:
+            fine = 500 * (ma - me)
+        elif ma == me and da > de:
+            fine = 15 * (da - de)
+
+    return fine 
+
+    
+fine = calc_fine(*map(int, input().split()+input().split()))
+print(fine)

@@ -29,5 +29,6 @@ Improve coding skills by coding for 30 days in a row. Unlock a new challenge and
 * [Day 24: More Linked Lists](challenges/linked_list_2.py)
 * [Day 25: Running Time and Complexity](challenges/time_complexity.py)
 * [Day 26: Nested Logic](challenges/nested_logic.py)
+* [Day 27: Testing](challenges/testing.py)
 
 

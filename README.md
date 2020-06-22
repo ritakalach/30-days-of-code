@@ -31,5 +31,6 @@ Improve coding skills by coding for 30 days in a row. Unlock a new challenge and
 * [Day 26: Nested Logic](challenges/nested_logic.py)
 * [Day 27: Testing](challenges/testing.py)
 * [Day 28: Day 28: RegEx, Patterns, and Intro to Databases](challenges/regex.py)
+* [Day 29: Day 29: Bitwise AND](challenges/bitwise_and.py)
 
 
